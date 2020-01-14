@@ -11,7 +11,7 @@ mongoose.set('useCreateIndex', true);
 mongoose.set('useUnifiedTopology', true);
 
 //running the seed.js
-// seedDB();
+seedDB();
 
 //connect mongoose
 mongoose.connect("mongodb://localhost/yelp_camp");
