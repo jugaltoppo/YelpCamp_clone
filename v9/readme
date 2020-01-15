@@ -1,0 +1,4 @@
+* associating user with the uploaded campground
+
+    basically when we add a campground to the website we retrieve the username from the the current logged in user 
+and when we add the campground the author of the campground is shown automatically in show campground page
