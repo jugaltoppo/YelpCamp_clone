@@ -1,0 +1,4 @@
+* associating user with the comment schema
+
+    basically when we add a comment to a particlar campground we retrieve the username from the the current logged in user 
+and when we add the comment the author of the comment is shown automatically with his comment
